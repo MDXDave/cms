@@ -46,7 +46,7 @@
     "bower-asset/jquery.payment": "3.0.0",
     "bower-asset/picturefill": "3.0.2",
     "bower-asset/selectize": "0.12.4",
-    "bower-asset/timepicker": "1.11.10.0",
+    "bower-asset/timepicker": "1.11.10",
     "bower-asset/velocity": "1.4.3",
     "bower-asset/fabric": "1.7.6"
   },
